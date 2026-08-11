@@ -242,7 +242,6 @@ Codex users say the same thing in words — the skill is mirrored under `.agents
 > **For Contributors**: [CONTRIBUTING.md](CONTRIBUTING.md) covers the same setup for humans — environment, pre-commit hooks, coding standards, and testing. `scripts/verify.sh` is the single deterministic check; CI runs the exact same script.
 
 We welcome contributions of all forms, from bug reports to feature development. Open an [issue](https://github.com/LLMQuant/quant-mind/issues) to discuss significant changes before you start, and make sure `bash scripts/verify.sh` is green before you open a PR.
-
 ### License
 
 QuantMind is released under the MIT License—see `LICENSE` for details.
